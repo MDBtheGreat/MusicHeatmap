@@ -1,0 +1,188 @@
+.music-heatmap-container {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #e6e9f0 0%, #eef1f5 100%);
+    padding: 2rem;
+}
+  
+.heatmap-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+  
+.header {
+    background: linear-gradient(to right, #0aa48d 0%, #05bf49 100%);
+    color: black;
+    padding: 1.5rem;
+    text-align: center;
+}
+  
+.header h1 {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+  
+.months-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1.5rem;
+    padding: 2rem;
+}
+  
+.month-card {
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+  
+.month-name {
+    text-align: center;
+    margin-bottom: 0.75rem;
+    color: #333;
+}
+  
+.days-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 4px;
+}
+  
+.day {
+    aspect-ratio: 1;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+  
+.day:hover {
+    outline: 2px solid #000000;
+    transform: scale(1.1);
+}
+  
+.day.selected {
+    outline: 3px solid #2575fc; /* Border of selected date */
+    z-index: 10;
+    transform: scale(1.15);
+}
+  
+.empty-day {
+    background-color: transparent;
+}
+  
+.intensity-1 { background-color: #c4c4c4; }
+.intensity-2 { background-color: #d9e289; }
+.intensity-3 { background-color: #a8bd65; }
+.intensity-4 { background-color: #789943; }
+.intensity-5 { background-color: #487722; }
+.intensity-6 { background-color: #195501; }
+  
+.loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #e6e9f0 0%, #eef1f5 100%);
+}
+  
+.loading-content {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+.music-icon {
+    font-size: 3rem;
+    animation: bounce 1s infinite;
+}
+  
+@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+}
+  
+.day-details-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+  
+.day-details-container {
+    background-color: white;
+    border-radius: 16px;
+    padding: 2rem;
+    max-width: 600px;
+    width: 90%;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+}
+  
+.day-details-content h3 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+  
+.details-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+  
+.detail-card {
+    background-color: #f1f3f5;
+    border-radius: 10px;
+    padding: 1rem;
+    text-align: center;
+}
+  
+.detail-card.full-width {
+    grid-column: span 2;
+}
+  
+.detail-label {
+    color: #666;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+}
+  
+.detail-value {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #000000; /* Songs Played and Total Listening Time amount color */
+}
+  
+.most-played {
+    font-size: 1rem;
+    color: #000000; /* Top Track name color */
+}
+  
+.close-details-btn {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    margin-top: 1.5rem;
+    background-color: #2575fc;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+  
+.close-details-btn:hover {
+    background-color: #1a5aef;
+}
