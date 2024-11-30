@@ -7,7 +7,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<CalendarHeatmap />} />
+        <Route path="/" element={<h1>Welcome to my Listening History</h1>} />
+        <Route path="/MusicHeatmap" element={<CalendarHeatmap />} />
       </Routes>
     </Router>
   );
