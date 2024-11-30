@@ -1,0 +1,1854 @@
+{
+    "year": 2024,
+    "data": {
+        "01": {
+            "01": {
+                "totalSongs": 53,
+                "mostPlayedSong": "2024 - Playboi Carti",
+                "totalDuration": 186
+            },
+            "02": {
+                "totalSongs": 47,
+                "mostPlayedSong": "WAKE UP - Travis Scott",
+                "totalDuration": 165
+            },
+            "03": {
+                "totalSongs": 35,
+                "mostPlayedSong": "trademark usa - Baby Keem",
+                "totalDuration": 123
+            },
+            "04": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 88
+            },
+            "05": {
+                "totalSongs": 55,
+                "mostPlayedSong": "Circo Loco - Drake",
+                "totalDuration": 193
+            },
+            "06": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "07": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Flashing Lights - Kanye West",
+                "totalDuration": 59
+            },
+            "08": {
+                "totalSongs": 35,
+                "mostPlayedSong": "No Smoke - YoungBoy Never Broke Again",
+                "totalDuration": 123
+            },
+            "09": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 77
+            },
+            "10": {
+                "totalSongs": 14,
+                "mostPlayedSong": "MIDDLE CHILD - PnB Rock",
+                "totalDuration": 49
+            },
+            "11": {
+                "totalSongs": 29,
+                "mostPlayedSong": "STARGAZING - Travis Scott",
+                "totalDuration": 102
+            },
+            "12": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Having Our Way - Migos",
+                "totalDuration": 147
+            },
+            "13": {
+                "totalSongs": 18,
+                "mostPlayedSong": "Magic - B.o.B",
+                "totalDuration": 63
+            },
+            "14": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "15": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 126
+            },
+            "16": {
+                "totalSongs": 18,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 63
+            },
+            "17": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Free Smoke - Drake",
+                "totalDuration": 161
+            },
+            "18": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Rockstar Made - Playboi Carti",
+                "totalDuration": 151
+            },
+            "19": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 55
+            },
+            "20": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Adore You - Harry Styles",
+                "totalDuration": 74
+            },
+            "21": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "22": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Flaws And Sins - Juice WRLD",
+                "totalDuration": 168
+            },
+            "23": {
+                "totalSongs": 16,
+                "mostPlayedSong": "I Can't Save You - Metro Boomin",
+                "totalDuration": 56
+            },
+            "24": {
+                "totalSongs": 16,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 56
+            },
+            "25": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 49
+            },
+            "26": {
+                "totalSongs": 49,
+                "mostPlayedSong": "First Day Out - Tee Grizzley",
+                "totalDuration": 172
+            },
+            "27": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "28": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Mr.Rager - Kid Cudi",
+                "totalDuration": 81
+            },
+            "29": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Hold On, We're Going Home - Drake",
+                "totalDuration": 88
+            },
+            "30": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Take Care - Drake",
+                "totalDuration": 168
+            },
+            "31": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Pull Up - Playboi Carti",
+                "totalDuration": 67
+            }
+        },
+        "02": {
+            "01": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Sky - Playboi Carti",
+                "totalDuration": 77
+            },
+            "02": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Comin Out Strong - Future",
+                "totalDuration": 147
+            },
+            "03": {
+                "totalSongs": 15,
+                "mostPlayedSong": "Best I Ever Had - Drake",
+                "totalDuration": 52
+            },
+            "04": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "05": {
+                "totalSongs": 56,
+                "mostPlayedSong": "Life Is Good - Future",
+                "totalDuration": 196
+            },
+            "06": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Low Life - Future",
+                "totalDuration": 42
+            },
+            "07": {
+                "totalSongs": 10,
+                "mostPlayedSong": "TELEKINESIS - Travis Scott",
+                "totalDuration": 35
+            },
+            "08": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 88
+            },
+            "09": {
+                "totalSongs": 21,
+                "mostPlayedSong": "CAROUSEL - Travis Scott",
+                "totalDuration": 74
+            },
+            "10": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Memories - Maroon 5",
+                "totalDuration": 140
+            },
+            "11": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Payphone - Maroon 5",
+                "totalDuration": 108
+            },
+            "12": {
+                "totalSongs": 31,
+                "mostPlayedSong": "SICKO MODE - Travis Scott",
+                "totalDuration": 108
+            },
+            "13": {
+                "totalSongs": 43,
+                "mostPlayedSong": "I'll Be Fine - Juice WRLD",
+                "totalDuration": 151
+            },
+            "14": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Exchange - Bryson Tiller",
+                "totalDuration": 161
+            },
+            "15": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 70
+            },
+            "16": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Hurts Me - Tory Lanez",
+                "totalDuration": 74
+            },
+            "17": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "18": {
+                "totalSongs": 6,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 21
+            },
+            "19": {
+                "totalSongs": 33,
+                "mostPlayedSong": "No Pole - Don Toliver",
+                "totalDuration": 116
+            },
+            "20": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Truffle Butter - Nicki Minaj",
+                "totalDuration": 176
+            },
+            "21": {
+                "totalSongs": 30,
+                "mostPlayedSong": "Stop Breathing - Playboi Carti",
+                "totalDuration": 105
+            },
+            "22": {
+                "totalSongs": 41,
+                "mostPlayedSong": "Anti - SOB X RBE",
+                "totalDuration": 144
+            },
+            "23": {
+                "totalSongs": 50,
+                "mostPlayedSong": "You - Don Toliver",
+                "totalDuration": 176
+            },
+            "24": {
+                "totalSongs": 32,
+                "mostPlayedSong": "I Took A Pill In Ibiza - Mike Posner",
+                "totalDuration": 112
+            },
+            "25": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Blame - Calvin Harris",
+                "totalDuration": 84
+            },
+            "26": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Best I Ever Had - Drake",
+                "totalDuration": 59
+            },
+            "27": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Overtime - Ken Carson",
+                "totalDuration": 91
+            },
+            "28": {
+                "totalSongs": 27,
+                "mostPlayedSong": "STARGAZING - Travis Scott",
+                "totalDuration": 94
+            }
+        },
+        "03": {
+            "01": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Sky - Playboi Carti",
+                "totalDuration": 77
+            },
+            "02": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 59
+            },
+            "03": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "04": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Let It Go - Playboi Carti",
+                "totalDuration": 172
+            },
+            "05": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 67
+            },
+            "06": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 147
+            },
+            "07": {
+                "totalSongs": 37,
+                "mostPlayedSong": "The Box - Roddy Ricch",
+                "totalDuration": 130
+            },
+            "08": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Big Lie - Post Malone",
+                "totalDuration": 130
+            },
+            "09": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "10": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 42
+            },
+            "11": {
+                "totalSongs": 26,
+                "mostPlayedSong": "lose - Travis Scott",
+                "totalDuration": 91
+            },
+            "12": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Calling - Metro Boomin",
+                "totalDuration": 49
+            },
+            "13": {
+                "totalSongs": 15,
+                "mostPlayedSong": "Circo Loco - Drake",
+                "totalDuration": 52
+            },
+            "14": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Butterfly Effect - Travis Scott",
+                "totalDuration": 165
+            },
+            "15": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Succubus - Ken Carson",
+                "totalDuration": 102
+            },
+            "16": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Runaway - Kanye West",
+                "totalDuration": 59
+            },
+            "17": {
+                "totalSongs": 8,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 28
+            },
+            "18": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Too Many Nights - Metro Boomin",
+                "totalDuration": 172
+            },
+            "19": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Niagara Falls - Metro Boomin",
+                "totalDuration": 91
+            },
+            "20": {
+                "totalSongs": 21,
+                "mostPlayedSong": "SICKO MODE - Travis Scott",
+                "totalDuration": 74
+            },
+            "21": {
+                "totalSongs": 17,
+                "mostPlayedSong": "beibs in the trap - Travis Scott",
+                "totalDuration": 60
+            },
+            "22": {
+                "totalSongs": 11,
+                "mostPlayedSong": "0 To 100 / The Catch Up - Drake",
+                "totalDuration": 38
+            },
+            "23": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Cinderella - Future",
+                "totalDuration": 42
+            },
+            "24": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Deja Vu - Post Malone",
+                "totalDuration": 45
+            },
+            "25": {
+                "totalSongs": 34,
+                "mostPlayedSong": "The Box - Roddy Ricch",
+                "totalDuration": 119
+            },
+            "26": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 88
+            },
+            "27": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 91
+            },
+            "28": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 45
+            },
+            "29": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 81
+            },
+            "30": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "31": {
+                "totalSongs": 6,
+                "mostPlayedSong": "Everyday Hustle - Future",
+                "totalDuration": 22
+            }
+        },
+        "04": {
+            "01": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Sky - Playboi Carti",
+                "totalDuration": 95
+            },
+            "02": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Too Many Nights - Metro Boomin",
+                "totalDuration": 95
+            },
+            "03": {
+                "totalSongs": 11,
+                "mostPlayedSong": "Not You Too - Drake",
+                "totalDuration": 38
+            },
+            "04": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Gifted - Cordae",
+                "totalDuration": 59
+            },
+            "05": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 77
+            },
+            "06": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "07": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 49
+            },
+            "08": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Girls Want Girls - Drake",
+                "totalDuration": 140
+            },
+            "09": {
+                "totalSongs": 30,
+                "mostPlayedSong": "Private Landing - Don Toliver",
+                "totalDuration": 105
+            },
+            "10": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 140
+            },
+            "11": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Deuces - Chris Brown",
+                "totalDuration": 77
+            },
+            "12": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Paris Morton Music - Drake",
+                "totalDuration": 126
+            },
+            "13": {
+                "totalSongs": 15,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 52
+            },
+            "14": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "15": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Toosie Slide - Drake",
+                "totalDuration": 84
+            },
+            "16": {
+                "totalSongs": 30,
+                "mostPlayedSong": "Tsunami - Young Thug",
+                "totalDuration": 105
+            },
+            "17": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Matt Hardy 999 - Trippie Redd",
+                "totalDuration": 126
+            },
+            "18": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Nevada - YoungBoy Never Broke Again",
+                "totalDuration": 151
+            },
+            "19": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Champion - NAV",
+                "totalDuration": 161
+            },
+            "20": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "21": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 42
+            },
+            "22": {
+                "totalSongs": 18,
+                "mostPlayedSong": "Good 4 U - Olivia Rodrigo",
+                "totalDuration": 63
+            },
+            "23": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Ballad of a Badman - Tory Lanez",
+                "totalDuration": 112
+            },
+            "24": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Amen - Drake",
+                "totalDuration": 95
+            },
+            "25": {
+                "totalSongs": 44,
+                "mostPlayedSong": "infinity (888) - XXXTENTACION",
+                "totalDuration": 154
+            },
+            "26": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Who Needs Love - Tory Lanez",
+                "totalDuration": 172
+            },
+            "27": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 42
+            },
+            "28": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "29": {
+                "totalSongs": 33,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 116
+            },
+            "30": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Heaven or Hell - Don Toliver",
+                "totalDuration": 165
+            }
+        },
+        "05": {
+            "01": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Sky - Playboi Carti",
+                "totalDuration": 80
+            },
+            "02": {
+                "totalSongs": 13,
+                "mostPlayedSong": "The Box - Roddy Ricch",
+                "totalDuration": 45
+            },
+            "03": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Spoil My Night - Post Malone",
+                "totalDuration": 74
+            },
+            "04": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "05": {
+                "totalSongs": 4,
+                "mostPlayedSong": "Feeling - Juice WRLD",
+                "totalDuration": 14
+            },
+            "06": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Young Grizzley World - Tee Grizzley",
+                "totalDuration": 91
+            },
+            "07": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Don't Matter To Me - Drake",
+                "totalDuration": 112
+            },
+            "08": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 119
+            },
+            "09": {
+                "totalSongs": 21,
+                "mostPlayedSong": "How to Talk - Lil Uzi Vert",
+                "totalDuration": 74
+            },
+            "10": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Both - Gucci Mane",
+                "totalDuration": 81
+            },
+            "11": {
+                "totalSongs": 30,
+                "mostPlayedSong": "The Show Goes On - Lupe Fiasco",
+                "totalDuration": 105
+            },
+            "12": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "13": {
+                "totalSongs": 19,
+                "mostPlayedSong": "First Person Shooter - Drake",
+                "totalDuration": 67
+            },
+            "14": {
+                "totalSongs": 15,
+                "mostPlayedSong": "Pure Souls - Kanye West",
+                "totalDuration": 52
+            },
+            "15": {
+                "totalSongs": 17,
+                "mostPlayedSong": "KEEP IT BURNIN - Future",
+                "totalDuration": 59
+            },
+            "16": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 119
+            },
+            "17": {
+                "totalSongs": 11,
+                "mostPlayedSong": "Swimming Pools (Drank) - Kendrick Lamar",
+                "totalDuration": 38
+            },
+            "18": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "19": {
+                "totalSongs": 12,
+                "mostPlayedSong": "RERUN - Quavo",
+                "totalDuration": 42
+            },
+            "20": {
+                "totalSongs": 28,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 98
+            },
+            "21": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 137
+            },
+            "22": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Too Many Years - Kodak Black",
+                "totalDuration": 102
+            },
+            "23": {
+                "totalSongs": 34,
+                "mostPlayedSong": "HOUSTONFORNICATION - Travis Scott",
+                "totalDuration": 119
+            },
+            "24": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Girls Want Girls - Drake",
+                "totalDuration": 137
+            },
+            "25": {
+                "totalSongs": 19,
+                "mostPlayedSong": "The Sweet Escape - Gwen Stefani",
+                "totalDuration": 67
+            },
+            "26": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "27": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 91
+            },
+            "28": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Secure The Bag - Lil Uzi Vert",
+                "totalDuration": 130
+            },
+            "29": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Candles - Juice WRLD",
+                "totalDuration": 95
+            },
+            "30": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 151
+            },
+            "31": {
+                "totalSongs": 30,
+                "mostPlayedSong": "Around Me - Metro Boomin",
+                "totalDuration": 105
+            }
+        },
+        "06": {
+            "01": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Sky - Playboi Carti",
+                "totalDuration": 42
+            },
+            "02": {
+                "totalSongs": 3,
+                "mostPlayedSong": "You - Lloyd",
+                "totalDuration": 10
+            },
+            "03": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Enemy - Imagine Dragons",
+                "totalDuration": 108
+            },
+            "04": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Yellow - Coldplay",
+                "totalDuration": 95
+            },
+            "05": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Mo Money Mo Problems - The Notorious B.I.G.",
+                "totalDuration": 70
+            },
+            "06": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Where Are U Now - Skrillex",
+                "totalDuration": 91
+            },
+            "07": {
+                "totalSongs": 14,
+                "mostPlayedSong": "The Box - Roddy Ricch",
+                "totalDuration": 49
+            },
+            "08": {
+                "totalSongs": 28,
+                "mostPlayedSong": "Where Have You Been - Rihanna",
+                "totalDuration": 98
+            },
+            "09": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "10": {
+                "totalSongs": 22,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 77
+            },
+            "11": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Burn - Ellie Goulding",
+                "totalDuration": 112
+            },
+            "12": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Take Care - Drake",
+                "totalDuration": 112
+            },
+            "13": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Drop It Like It's Hot - Snoop Dogg",
+                "totalDuration": 102
+            },
+            "14": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Impossible - Shontelle",
+                "totalDuration": 165
+            },
+            "15": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "16": {
+                "totalSongs": 4,
+                "mostPlayedSong": "I Wonder - Kanye West",
+                "totalDuration": 14
+            },
+            "17": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Easy On Me - Adele",
+                "totalDuration": 95
+            },
+            "18": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Beautiful Girls - Sean Kingston",
+                "totalDuration": 161
+            },
+            "19": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Blinding Lights - The Weeknd",
+                "totalDuration": 74
+            },
+            "20": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Up Down - T-Pain",
+                "totalDuration": 112
+            },
+            "21": {
+                "totalSongs": 42,
+                "mostPlayedSong": "International Love - Pitbull",
+                "totalDuration": 147
+            },
+            "22": {
+                "totalSongs": 33,
+                "mostPlayedSong": "Work - Rihanna",
+                "totalDuration": 116
+            },
+            "23": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Rolling in the Deep - Adele",
+                "totalDuration": 35
+            },
+            "24": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 176
+            },
+            "25": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Alejandro - Lady Gaga",
+                "totalDuration": 81
+            },
+            "26": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Without Me - Halsey",
+                "totalDuration": 168
+            },
+            "27": {
+                "totalSongs": 33,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 116
+            },
+            "28": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 168
+            },
+            "29": {
+                "totalSongs": 42,
+                "mostPlayedSong": "See You Again - Wiz Khalifa",
+                "totalDuration": 147
+            },
+            "30": {
+                "totalSongs": 5,
+                "mostPlayedSong": "No Lie - Sean Paul",
+                "totalDuration": 17
+            }
+        },
+        "07": {
+            "01": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Sky - Playboi Carti",
+                "totalDuration": 151
+            },
+            "02": {
+                "totalSongs": 31,
+                "mostPlayedSong": "How Deep Is Your Love - Calvin Harris",
+                "totalDuration": 108
+            },
+            "03": {
+                "totalSongs": 11,
+                "mostPlayedSong": "Industry Baby - Lil Nas X",
+                "totalDuration": 38
+            },
+            "04": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 126
+            },
+            "05": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Story of My Life - One Direction",
+                "totalDuration": 126
+            },
+            "06": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "07": {
+                "totalSongs": 23,
+                "mostPlayedSong": "21 Questions - 50 Cent",
+                "totalDuration": 80
+            },
+            "08": {
+                "totalSongs": 33,
+                "mostPlayedSong": "Do You Remember - Jay Sean",
+                "totalDuration": 116
+            },
+            "09": {
+                "totalSongs": 13,
+                "mostPlayedSong": "ROXANNE - Arizona Zervas",
+                "totalDuration": 45
+            },
+            "10": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Jackie Chan - Tiësto",
+                "totalDuration": 165
+            },
+            "11": {
+                "totalSongs": 24,
+                "mostPlayedSong": "On To The Next One - Jay-Z",
+                "totalDuration": 84
+            },
+            "12": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 59
+            },
+            "13": {
+                "totalSongs": 28,
+                "mostPlayedSong": "Cooler Than Me - Mike Posner",
+                "totalDuration": 98
+            },
+            "14": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Planez - Jeremih",
+                "totalDuration": 67
+            },
+            "15": {
+                "totalSongs": 15,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 52
+            },
+            "16": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Moves Like Jagger - Maroon 5",
+                "totalDuration": 67
+            },
+            "17": {
+                "totalSongs": 16,
+                "mostPlayedSong": "Yeah 3x - Chris Brown",
+                "totalDuration": 56
+            },
+            "18": {
+                "totalSongs": 45,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 158
+            },
+            "19": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Airplanes - B.o.B",
+                "totalDuration": 176
+            },
+            "20": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Teenage Dream - Katy Perry",
+                "totalDuration": 151
+            },
+            "21": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Chemical - Post Malone",
+                "totalDuration": 42
+            },
+            "22": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Blank Space - Taylor Swift",
+                "totalDuration": 70
+            },
+            "23": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Not Over You - Gavin DeGraw",
+                "totalDuration": 95
+            },
+            "24": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Where Them Girls At - David Guetta",
+                "totalDuration": 119
+            },
+            "25": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Whatever You Like - T.I.",
+                "totalDuration": 168
+            },
+            "26": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Super Bass - Nicki Minaj",
+                "totalDuration": 67
+            },
+            "27": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "28": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Timber - Pitbull",
+                "totalDuration": 91
+            },
+            "29": {
+                "totalSongs": 37,
+                "mostPlayedSong": "All The Stars - Kendrick Lamar",
+                "totalDuration": 130
+            },
+            "30": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Viva La Vida - Coldplay",
+                "totalDuration": 176
+            },
+            "31": {
+                "totalSongs": 19,
+                "mostPlayedSong": "In The Air Tonight - Phil Collins",
+                "totalDuration": 67
+            }
+        },
+        "08": {
+            "01": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Sky - Playboi Carti",
+                "totalDuration": 81
+            },
+            "02": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Numb/Encore - JAY-Z",
+                "totalDuration": 49
+            },
+            "03": {
+                "totalSongs": 27,
+                "mostPlayedSong": "Replay - Iyaz",
+                "totalDuration": 105
+            },
+            "04": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Mirror - Lil Wayne",
+                "totalDuration": 112
+            },
+            "05": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Good Morning - Kanye West",
+                "totalDuration": 140
+            },
+            "06": {
+                "totalSongs": 38,
+                "mostPlayedSong": "Bad Habit - Steve Lacy",
+                "totalDuration": 133
+            },
+            "07": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Sunflower - Post Malone",
+                "totalDuration": 151
+            },
+            "08": {
+                "totalSongs": 28,
+                "mostPlayedSong": "E.T. - Katy Perry",
+                "totalDuration": 98
+            },
+            "09": {
+                "totalSongs": 16,
+                "mostPlayedSong": "Good Time - Owl City",
+                "totalDuration": 56
+            },
+            "10": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "11": {
+                "totalSongs": 45,
+                "mostPlayedSong": "Watermelon Sugar - Harry Styles",
+                "totalDuration": 158
+            },
+            "12": {
+                "totalSongs": 28,
+                "mostPlayedSong": "Moment 4 Life - Nicki Minaj",
+                "totalDuration": 98
+            },
+            "13": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Runaway - Kanye West",
+                "totalDuration": 49
+            },
+            "14": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Drivers License - Olivia Rodrigo",
+                "totalDuration": 80
+            },
+            "15": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Maps - Maroon 5",
+                "totalDuration": 147
+            },
+            "16": {
+                "totalSongs": 28,
+                "mostPlayedSong": "Titanium - David Guetta",
+                "totalDuration": 98
+            },
+            "17": {
+                "totalSongs": 6,
+                "mostPlayedSong": "Pumped Up Kicks - Foster The People",
+                "totalDuration": 21
+            },
+            "18": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "19": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 45
+            },
+            "20": {
+                "totalSongs": 35,
+                "mostPlayedSong": "Somebody That I Used To Know - Gotye",
+                "totalDuration": 122
+            },
+            "21": {
+                "totalSongs": 29,
+                "mostPlayedSong": "My Love - Justin Timberlake",
+                "totalDuration": 102
+            },
+            "22": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Bound 2 - Kanye West",
+                "totalDuration": 70
+            },
+            "23": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Till I Collapse - Eminem",
+                "totalDuration": 45
+            },
+            "24": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Stay The Night - Zedd",
+                "totalDuration": 147
+            },
+            "25": {
+                "totalSongs": 12,
+                "mostPlayedSong": "This Love - Maroon 5",
+                "totalDuration": 42
+            },
+            "26": {
+                "totalSongs": 39,
+                "mostPlayedSong": "California Love - 2Pac",
+                "totalDuration": 137
+            },
+            "27": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Sugar, We're Goin Down - Fall Out Boy",
+                "totalDuration": 91
+            },
+            "28": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Can't Hold Us - Macklemore",
+                "totalDuration": 151
+            },
+            "29": {
+                "totalSongs": 35,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 122
+            },
+            "30": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Mesmerize - Ja Rule",
+                "totalDuration": 88
+            },
+            "31": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            }
+        },
+        "09": {
+            "01": {
+                "totalSongs": 7,
+                "mostPlayedSong": "Sky - Playboi Carti",
+                "totalDuration": 24
+            },
+            "02": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Attention - Charlie Puth",
+                "totalDuration": 102
+            },
+            "03": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 70
+            },
+            "04": {
+                "totalSongs": 45,
+                "mostPlayedSong": "Lean On - Major Lazer",
+                "totalDuration": 158
+            },
+            "05": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Through The Wire - Kanye West",
+                "totalDuration": 91
+            },
+            "06": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Billionaire - Travie McCoy",
+                "totalDuration": 88
+            },
+            "07": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "08": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Call Me Maybe - Carly Rae Jepsen",
+                "totalDuration": 42
+            },
+            "09": {
+                "totalSongs": 49,
+                "mostPlayedSong": "With You - Chris Brown",
+                "totalDuration": 172
+            },
+            "10": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Waves - Mr. Probz",
+                "totalDuration": 84
+            },
+            "11": {
+                "totalSongs": 17,
+                "mostPlayedSong": "Say Aah - Trey Songz",
+                "totalDuration": 59
+            },
+            "12": {
+                "totalSongs": 45,
+                "mostPlayedSong": "Peaches - Justin Bieber",
+                "totalDuration": 158
+            },
+            "13": {
+                "totalSongs": 11,
+                "mostPlayedSong": "Save Your Tears - The Weeknd",
+                "totalDuration": 38
+            },
+            "14": {
+                "totalSongs": 36,
+                "mostPlayedSong": "International Love - Pitbull",
+                "totalDuration": 112
+            },
+            "15": {
+                "totalSongs": 52,
+                "mostPlayedSong": "My House - Flo Rida",
+                "totalDuration": 182
+            },
+            "16": {
+                "totalSongs": 30,
+                "mostPlayedSong": "Stay The Night - Zedd",
+                "totalDuration": 105
+            },
+            "17": {
+                "totalSongs": 37,
+                "mostPlayedSong": "greedy - Tate McRae",
+                "totalDuration": 130
+            },
+            "18": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Lose Yourself - Eminem",
+                "totalDuration": 176
+            },
+            "19": {
+                "totalSongs": 21,
+                "mostPlayedSong": "I Know You Want Me - Pitbull",
+                "totalDuration": 74
+            },
+            "20": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Your Love Is My Drug - Kesha",
+                "totalDuration": 102
+            },
+            "21": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Don't Stop The Music - Rihanna",
+                "totalDuration": 151
+            },
+            "22": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "23": {
+                "totalSongs": 31,
+                "mostPlayedSong": "TELEKINESIS - Travis Scott",
+                "totalDuration": 108
+            },
+            "24": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Say It Right - Nelly Furtado",
+                "totalDuration": 161
+            },
+            "25": {
+                "totalSongs": 42,
+                "mostPlayedSong": "Feel It - d4vd",
+                "totalDuration": 147
+            },
+            "26": {
+                "totalSongs": 47,
+                "mostPlayedSong": "Shape of You - Ed Sheeran",
+                "totalDuration": 165
+            },
+            "27": {
+                "totalSongs": 40,
+                "mostPlayedSong": "Blow the Whistle - Too $hort",
+                "totalDuration": 140
+            },
+            "28": {
+                "totalSongs": 35,
+                "mostPlayedSong": "Temperature - Sean Paul",
+                "totalDuration": 122
+            },
+            "29": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Pursuit Of Happiness - Kid Cudi",
+                "totalDuration": 49
+            },
+            "30": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Don't Wake Me Up - Chris Brown",
+                "totalDuration": 49
+            }
+        },
+        "10": {
+            "01": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Sky - Playboi Carti",
+                "totalDuration": 35
+            },
+            "02": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Summertime Sadness - Lana Del Rey",
+                "totalDuration": 126
+            },
+            "03": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Guy For That - Post Malone",
+                "totalDuration": 88
+            },
+            "04": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Promiscuous - Nelly Furtado",
+                "totalDuration": 81
+            },
+            "05": {
+                "totalSongs": 12,
+                "mostPlayedSong": "Paint The Town Red - Doja Cat",
+                "totalDuration": 42
+            },
+            "06": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Give Me Everything - Pitbull",
+                "totalDuration": 126
+            },
+            "07": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Circles - Post Malone",
+                "totalDuration": 130
+            },
+            "08": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Pour It Up - Rihanna",
+                "totalDuration": 176
+            },
+            "09": {
+                "totalSongs": 38,
+                "mostPlayedSong": "Big Poppa - The Notorious B.I.G.",
+                "totalDuration": 133
+            },
+            "10": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Centuries - Fall Out Boy",
+                "totalDuration": 161
+            },
+            "11": {
+                "totalSongs": 24,
+                "mostPlayedSong": "Bad Romanace - Lady Gaga",
+                "totalDuration": 84
+            },
+            "12": {
+                "totalSongs": 29,
+                "mostPlayedSong": "Ms. Jackson - OutKast",
+                "totalDuration": 102
+            },
+            "13": {
+                "totalSongs": 15,
+                "mostPlayedSong": "Goodbyes - Post Malone",
+                "totalDuration": 52
+            },
+            "14": {
+                "totalSongs": 49,
+                "mostPlayedSong": "I'm The One - DJ Khaled",
+                "totalDuration": 172
+            },
+            "15": {
+                "totalSongs": 47,
+                "mostPlayedSong": "I Had Some Help - Post Malone",
+                "totalDuration": 165
+            },
+            "16": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Memories - Maroon 5",
+                "totalDuration": 88
+            },
+            "17": {
+                "totalSongs": 27,
+                "mostPlayedSong": "V. 3005 - Childish Gambino",
+                "totalDuration": 95
+            },
+            "18": {
+                "totalSongs": 10,
+                "mostPlayedSong": "TORE UP - Don Toliver",
+                "totalDuration": 35
+            },
+            "19": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "20": {
+                "totalSongs": 14,
+                "mostPlayedSong": "Agora Hills - Doja Cat",
+                "totalDuration": 49
+            },
+            "21": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Demons - Imagine Dragons",
+                "totalDuration": 88
+            },
+            "22": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Payphone - Maroon 5",
+                "totalDuration": 119
+            },
+            "23": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 108
+            },
+            "24": {
+                "totalSongs": 33,
+                "mostPlayedSong": "Dark Horse - Katy Perry",
+                "totalDuration": 116
+            },
+            "25": {
+                "totalSongs": 37,
+                "mostPlayedSong": "Baby Boy - Sean Paul",
+                "totalDuration": 130
+            },
+            "26": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Live Your Life - T.I.",
+                "totalDuration": 45
+            },
+            "27": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "28": {
+                "totalSongs": 36,
+                "mostPlayedSong": "Starships - Nicki Minaj",
+                "totalDuration": 126
+            },
+            "29": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Diamonds - Rihanna",
+                "totalDuration": 88
+            },
+            "30": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Die With A Smile - Lady Gaga",
+                "totalDuration": 81
+            },
+            "31": {
+                "totalSongs": 48,
+                "mostPlayedSong": "In My Head - Jason Derulo",
+                "totalDuration": 168
+            }
+        },
+        "11": {
+            "01": {
+                "totalSongs": 20,
+                "mostPlayedSong": "Sky - Playboi Carti",
+                "totalDuration": 70
+            },
+            "02": {
+                "totalSongs": 34,
+                "mostPlayedSong": "Beautiful - Akon",
+                "totalDuration": 119
+            },
+            "03": {
+                "totalSongs": 14,
+                "mostPlayedSong": "All Falls Down - Kanye West",
+                "totalDuration": 49
+            },
+            "04": {
+                "totalSongs": 50,
+                "mostPlayedSong": "Last Friday Night (T.G.I.F.) - Katy Perry",
+                "totalDuration": 176
+            },
+            "05": {
+                "totalSongs": 49,
+                "mostPlayedSong": "All I Do Is Win - DJ Khaled",
+                "totalDuration": 172
+            },
+            "06": {
+                "totalSongs": 25,
+                "mostPlayedSong": "Pour It Up - Rihanna",
+                "totalDuration": 88
+            },
+            "07": {
+                "totalSongs": 26,
+                "mostPlayedSong": "you broke me first - Tate McRae",
+                "totalDuration": 91
+            },
+            "08": {
+                "totalSongs": 10,
+                "mostPlayedSong": "Chill Bae - Lil Uzi Vert",
+                "totalDuration": 35
+            },
+            "09": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "10": {
+                "totalSongs": 23,
+                "mostPlayedSong": "BIRDS OF A FEATHER - Billie Eilish",
+                "totalDuration": 81
+            },
+            "11": {
+                "totalSongs": 43,
+                "mostPlayedSong": "Ain't It Fun - Paramore",
+                "totalDuration": 151
+            },
+            "12": {
+                "totalSongs": 31,
+                "mostPlayedSong": "Chill Bae - Lil Uzi Vert",
+                "totalDuration": 108
+            },
+            "13": {
+                "totalSongs": 46,
+                "mostPlayedSong": "Levitating - Dua Lipa",
+                "totalDuration": 161
+            },
+            "14": {
+                "totalSongs": 26,
+                "mostPlayedSong": "Devil In A New Dress - Kanye West",
+                "totalDuration": 91
+            },
+            "15": {
+                "totalSongs": 49,
+                "mostPlayedSong": "Stay - The Kid LAROI",
+                "totalDuration": 131
+            },
+            "16": {
+                "totalSongs": 61,
+                "mostPlayedSong": "Flashing Lights - Kanye West",
+                "totalDuration": 214
+            },
+            "17": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "18": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Turn Up the Music - Chris Brown",
+                "totalDuration": 137
+            },
+            "19": {
+                "totalSongs": 48,
+                "mostPlayedSong": "Kiss Me More - Doja Cat",
+                "totalDuration": 168
+            },
+            "20": {
+                "totalSongs": 21,
+                "mostPlayedSong": "Fortnight - Taylor Swift",
+                "totalDuration": 74
+            },
+            "21": {
+                "totalSongs": 39,
+                "mostPlayedSong": "Run This Town - Jay-Z",
+                "totalDuration": 137
+            },
+            "22": {
+                "totalSongs": 51,
+                "mostPlayedSong": "PLAY THIS - Playboi Carti",
+                "totalDuration": 179
+            },
+            "23": {
+                "totalSongs": 32,
+                "mostPlayedSong": "Party In The U.S.A. - Miley Cyrus",
+                "totalDuration": 112
+            },
+            "24": {
+                "totalSongs": 19,
+                "mostPlayedSong": "Boom Boom Pow - Black Eyed Peas",
+                "totalDuration": 67
+            },
+            "25": {
+                "totalSongs": 43,
+                "mostPlayedSong": "PLAY THIS - Playboi Carti",
+                "totalDuration": 151
+            },
+            "26": {
+                "totalSongs": 19,
+                "mostPlayedSong": "tv off - Kendrick Lamar",
+                "totalDuration": 67
+            },
+            "27": {
+                "totalSongs": 28,
+                "mostPlayedSong": "luther - Kendrick Lamar",
+                "totalDuration": 98
+            },
+            "28": {
+                "totalSongs": 13,
+                "mostPlayedSong": "Aston Martin Truck - Roddy Ricch",
+                "totalDuration": 45
+            },
+            "29": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Life Is Good - Future",
+                "totalDuration": 81
+            },
+            "30": {
+                "totalSongs": 23,
+                "mostPlayedSong": "Counting Stars - OneRepublic",
+                "totalDuration": 82
+            }
+        },
+        "12": {
+            "01": {
+                "totalSongs": 9,
+                "mostPlayedSong": "Sky - Playboi Carti",
+                "totalDuration": 32
+            },
+            "02": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "03": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "04": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "05": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "06": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "07": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "08": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "09": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "10": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "11": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "12": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "13": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "14": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "15": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "16": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "17": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "18": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "19": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "20": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "21": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "22": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "23": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "24": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "25": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "26": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "27": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "28": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "29": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "30": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            },
+            "31": {
+                "totalSongs": 0,
+                "mostPlayedSong": "-",
+                "totalDuration": 0
+            }
+        }
+    }
+}
